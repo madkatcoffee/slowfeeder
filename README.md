@@ -1,4 +1,4 @@
-#Beanbot - A DIY Slow Feeder
+# Beanbot - A DIY Slow Feeder**
 
 Free to download, 3d print and build, battery-powered slow feeder for coffee grinders
 
@@ -7,7 +7,7 @@ A simple, fast-to-build slow feeder to help you test and experience the impact o
 This project is intended as a learning and experimentation tool.
 If you want a set-and-forget, variable-speed, daily-use version, see the metal upgrade at www.madkatcoffee.com.
 
-##Why slow feeding?
+## Why slow feeding?**
 
 Slow feeding:
 
@@ -17,7 +17,7 @@ Reduces heat generation
 
 Improves shot to shot consistency with a motorized feeder
 
-##Many users report:
+## Many users report:
 
 Improved clarity
 
@@ -27,9 +27,9 @@ Improved aroma
 
 This DIY design exists so you can try it yourself.
 
-##What this is (and isn’t)
+## What this is (and isn’t)
 
-###This is:
+### This is:
 
 A simple ON/OFF slow feeder
 
@@ -41,20 +41,20 @@ Includes separate cassette wheels for feed speed reduction.
 
 Designed to work with adapters that can be modified to suit your grinder. The included EK43 adapter has been included as a step file so you can modify/remix as you need to suit your grinder.
 
-###This is not:
+### This is not:
 
 A variable speed feeder
 
 A finished product
 
 
-##Build overview
+## Build overview
 
 Build time: ~30–45 minutes
 
 Print time: ~12 hours (depends on printer)
 
-##Required tools
+## Required tools
 
 3D printer
 
@@ -62,7 +62,7 @@ Small screwdrivers
 
 Wire strippers (to strip ends of wires)
 
-##Files included
+## Files included
 
 /STL/ – Printable parts (core assembly provided as STL)
 
@@ -70,7 +70,7 @@ Wire strippers (to strip ends of wires)
 
 /Assembly/ – Step-by-step build instructions (PDF)
 
-##You are free to:
+## You are free to:
 
 Print
 
@@ -80,13 +80,13 @@ Share
 
 Remix
 
-##Licensing
+## Licensing
 
 Core assembly: provided as-is for personal use
 
 Funnels: open for remixing and sharing
 
-##Known limitations
+## Known limitations
 
 Fixed feed rate but can change with modified rotors.
 
