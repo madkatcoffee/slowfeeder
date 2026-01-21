@@ -1,4 +1,4 @@
-# Beanbot - A DIY Slow Feeder
+# MK Feedr DIY - A 3D printable and solderless slow feeder
 
 Free to download, 3d print and build, battery-powered slow feeder for coffee grinders
 
