@@ -1,4 +1,4 @@
-# Beanbot - A DIY Slow Feeder**
+# Beanbot - A DIY Slow Feeder
 
 Free to download, 3d print and build, battery-powered slow feeder for coffee grinders
 
@@ -7,7 +7,7 @@ A simple, fast-to-build slow feeder to help you test and experience the impact o
 This project is intended as a learning and experimentation tool.
 If you want a set-and-forget, variable-speed, daily-use version, see the metal upgrade at www.madkatcoffee.com.
 
-## Why slow feeding?**
+## Why slow feeding?
 
 Slow feeding:
 
